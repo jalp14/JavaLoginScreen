@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="ICustomer" type="JAVA" />
-      <mapping pattern="GenericDAO" type="JAVA" />
-      <mapping pattern="IUser" type="JAVA" />
+      <mapping pattern="ITest" type="JAVA" />
       <mapping pattern="SceneSwitchInterface" type="JAVA" />
+      <mapping pattern="GenericDAO" type="JAVA" />
+      <mapping pattern="TestInterface" type="JAVA" />
       <mapping pattern="DBConnectivityInterface" type="JAVA" />
+      <mapping pattern="ICustomer" type="JAVA" />
+      <mapping pattern="IUser" type="JAVA" />
       <mapping pattern="NavigationLogic" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
